@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://RuslanaKravchenko.github.io/parcel-project-template",
+  "homepage": "https://Vera-Korzun.github.io/Project-1",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url=/parcel-project-template/",
+    "predeploy": "npm run build -- --public-url=/Project-1/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
